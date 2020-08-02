@@ -1,0 +1,2226 @@
+[
+    {
+        "tripId": "1939515",
+        "routeId": "560",
+        "scheduleRelationship": null,
+        "id": "5053",
+        "stopSequence": 17,
+        "arrival_delay": -10630
+    },
+    {
+        "tripId": "1939518",
+        "routeId": "560",
+        "scheduleRelationship": null,
+        "id": "5097",
+        "stopSequence": 0,
+        "arrival_delay": 1015
+    },
+    {
+        "tripId": "1939534",
+        "routeId": "501",
+        "scheduleRelationship": null,
+        "id": "5070",
+        "stopSequence": 10,
+        "arrival_delay": -200
+    },
+    {
+        "tripId": "1939551",
+        "routeId": "512",
+        "scheduleRelationship": null,
+        "id": "5034",
+        "stopSequence": 12,
+        "arrival_delay": -15
+    },
+    {
+        "tripId": "1939579",
+        "routeId": "527",
+        "scheduleRelationship": null,
+        "id": "5088",
+        "stopSequence": 0,
+        "arrival_delay": 1489
+    },
+    {
+        "tripId": "1943113",
+        "routeId": "401",
+        "scheduleRelationship": null,
+        "id": "4046",
+        "stopSequence": 7,
+        "arrival_delay": 49
+    },
+    {
+        "tripId": "1943160",
+        "routeId": "492",
+        "scheduleRelationship": null,
+        "id": "4042",
+        "stopSequence": 0,
+        "arrival_delay": 107
+    },
+    {
+        "tripId": "1943192",
+        "routeId": "493",
+        "scheduleRelationship": null,
+        "id": "4047",
+        "stopSequence": 12,
+        "arrival_delay": -76
+    },
+    {
+        "tripId": "1943236",
+        "routeId": "484",
+        "scheduleRelationship": null,
+        "id": "4048",
+        "stopSequence": 5,
+        "arrival_delay": -22
+    },
+    {
+        "tripId": "1943272",
+        "routeId": "405",
+        "scheduleRelationship": null,
+        "id": "4043",
+        "stopSequence": 0,
+        "arrival_delay": 590
+    },
+    {
+        "tripId": "1943303",
+        "routeId": "405",
+        "scheduleRelationship": null,
+        "id": "4041",
+        "stopSequence": 13,
+        "arrival_delay": -11
+    },
+    {
+        "tripId": "1943356",
+        "routeId": "494",
+        "scheduleRelationship": null,
+        "id": "4050",
+        "stopSequence": 9,
+        "arrival_delay": 49
+    },
+    {
+        "tripId": "1943378",
+        "routeId": "494",
+        "scheduleRelationship": null,
+        "id": "4045",
+        "stopSequence": 2,
+        "arrival_delay": -16
+    },
+    {
+        "tripId": "1944694",
+        "routeId": "802",
+        "scheduleRelationship": null,
+        "id": "8040",
+        "stopSequence": 5,
+        "arrival_delay": -4
+    },
+    {
+        "tripId": "1944709",
+        "routeId": "802",
+        "scheduleRelationship": null,
+        "id": "8047",
+        "stopSequence": 0,
+        "arrival_delay": 890
+    },
+    {
+        "tripId": "1944727",
+        "routeId": "803",
+        "scheduleRelationship": null,
+        "id": "8017",
+        "stopSequence": 2,
+        "arrival_delay": -130
+    },
+    {
+        "tripId": "1944782",
+        "routeId": "811",
+        "scheduleRelationship": null,
+        "id": "8031",
+        "stopSequence": 4,
+        "arrival_delay": -65
+    },
+    {
+        "tripId": "1944796",
+        "routeId": "821",
+        "scheduleRelationship": null,
+        "id": "8027",
+        "stopSequence": 11,
+        "arrival_delay": -18
+    },
+    {
+        "tripId": "1946729",
+        "routeId": "603",
+        "scheduleRelationship": null,
+        "id": "6054",
+        "stopSequence": 12,
+        "arrival_delay": -2
+    },
+    {
+        "tripId": "1946758",
+        "routeId": "603",
+        "scheduleRelationship": null,
+        "id": "6050",
+        "stopSequence": 16,
+        "arrival_delay": -251
+    },
+    {
+        "tripId": "1946782",
+        "routeId": "610",
+        "scheduleRelationship": null,
+        "id": "6064",
+        "stopSequence": 24,
+        "arrival_delay": -124
+    },
+    {
+        "tripId": "1946805",
+        "routeId": "610",
+        "scheduleRelationship": null,
+        "id": "6063",
+        "stopSequence": 19,
+        "arrival_delay": -47
+    },
+    {
+        "tripId": "1946843",
+        "routeId": "611",
+        "scheduleRelationship": null,
+        "id": "6061",
+        "stopSequence": 11,
+        "arrival_delay": -170
+    },
+    {
+        "tripId": "1946884",
+        "routeId": "611",
+        "scheduleRelationship": null,
+        "id": "6059",
+        "stopSequence": 0,
+        "arrival_delay": 889
+    },
+    {
+        "tripId": "1946911",
+        "routeId": "614",
+        "scheduleRelationship": null,
+        "id": "6062",
+        "stopSequence": 3,
+        "arrival_delay": -73
+    },
+    {
+        "tripId": "1946931",
+        "routeId": "651",
+        "scheduleRelationship": null,
+        "id": "6053",
+        "stopSequence": 11,
+        "arrival_delay": 39
+    },
+    {
+        "tripId": "2004259",
+        "routeId": "488",
+        "scheduleRelationship": null,
+        "id": "4302",
+        "stopSequence": 8,
+        "arrival_delay": -270
+    },
+    {
+        "tripId": "2060696",
+        "routeId": "1",
+        "scheduleRelationship": null,
+        "id": "435",
+        "stopSequence": 29,
+        "arrival_delay": -93
+    },
+    {
+        "tripId": "2060716",
+        "routeId": "1",
+        "scheduleRelationship": null,
+        "id": "425",
+        "stopSequence": 15,
+        "arrival_delay": 5
+    },
+    {
+        "tripId": "2060741",
+        "routeId": "1",
+        "scheduleRelationship": null,
+        "id": "404",
+        "stopSequence": 0,
+        "arrival_delay": 183
+    },
+    {
+        "tripId": "2060764",
+        "routeId": "1",
+        "scheduleRelationship": null,
+        "id": "625",
+        "stopSequence": 0,
+        "arrival_delay": 1369
+    },
+    {
+        "tripId": "2060776",
+        "routeId": "1",
+        "scheduleRelationship": null,
+        "id": "406",
+        "stopSequence": 17,
+        "arrival_delay": 38
+    },
+    {
+        "tripId": "2060797",
+        "routeId": "1",
+        "scheduleRelationship": null,
+        "id": "624",
+        "stopSequence": 2,
+        "arrival_delay": 41
+    },
+    {
+        "tripId": "2060819",
+        "routeId": "10",
+        "scheduleRelationship": null,
+        "id": "448",
+        "stopSequence": 17,
+        "arrival_delay": -42
+    },
+    {
+        "tripId": "2060839",
+        "routeId": "10",
+        "scheduleRelationship": null,
+        "id": "920",
+        "stopSequence": 0,
+        "arrival_delay": 889
+    },
+    {
+        "tripId": "2060862",
+        "routeId": "9",
+        "scheduleRelationship": null,
+        "id": "912",
+        "stopSequence": 17,
+        "arrival_delay": 168
+    },
+    {
+        "tripId": "2060881",
+        "routeId": "9",
+        "scheduleRelationship": null,
+        "id": "432",
+        "stopSequence": 2,
+        "arrival_delay": 2
+    },
+    {
+        "tripId": "2060903",
+        "routeId": "10",
+        "scheduleRelationship": null,
+        "id": "450",
+        "stopSequence": 26,
+        "arrival_delay": -71
+    },
+    {
+        "tripId": "2060925",
+        "routeId": "10",
+        "scheduleRelationship": null,
+        "id": "427",
+        "stopSequence": 14,
+        "arrival_delay": 93
+    },
+    {
+        "tripId": "2060945",
+        "routeId": "10",
+        "scheduleRelationship": null,
+        "id": "449",
+        "stopSequence": 0,
+        "arrival_delay": 275
+    },
+    {
+        "tripId": "2060965",
+        "routeId": "12",
+        "scheduleRelationship": null,
+        "id": "401",
+        "stopSequence": 6,
+        "arrival_delay": 22
+    },
+    {
+        "tripId": "2060990",
+        "routeId": "12",
+        "scheduleRelationship": null,
+        "id": "923",
+        "stopSequence": 0,
+        "arrival_delay": 590
+    },
+    {
+        "tripId": "2061014",
+        "routeId": "12",
+        "scheduleRelationship": null,
+        "id": "931",
+        "stopSequence": 19,
+        "arrival_delay": -1
+    },
+    {
+        "tripId": "2061040",
+        "routeId": "12",
+        "scheduleRelationship": null,
+        "id": "414",
+        "stopSequence": 7,
+        "arrival_delay": 82
+    },
+    {
+        "tripId": "2061065",
+        "routeId": "12",
+        "scheduleRelationship": null,
+        "id": "603",
+        "stopSequence": 20,
+        "arrival_delay": 110
+    },
+    {
+        "tripId": "2061089",
+        "routeId": "13",
+        "scheduleRelationship": null,
+        "id": "925",
+        "stopSequence": 0,
+        "arrival_delay": 827
+    },
+    {
+        "tripId": "2061112",
+        "routeId": "13",
+        "scheduleRelationship": null,
+        "id": "408",
+        "stopSequence": 17,
+        "arrival_delay": -61
+    },
+    {
+        "tripId": "2061133",
+        "routeId": "13",
+        "scheduleRelationship": null,
+        "id": "616",
+        "stopSequence": 2,
+        "arrival_delay": -9
+    },
+    {
+        "tripId": "2061157",
+        "routeId": "13",
+        "scheduleRelationship": null,
+        "id": "403",
+        "stopSequence": 0,
+        "arrival_delay": 1101
+    },
+    {
+        "tripId": "2061179",
+        "routeId": "13",
+        "scheduleRelationship": null,
+        "id": "622",
+        "stopSequence": 21,
+        "arrival_delay": 29
+    },
+    {
+        "tripId": "2061200",
+        "routeId": "13",
+        "scheduleRelationship": null,
+        "id": "407",
+        "stopSequence": 7,
+        "arrival_delay": 7
+    },
+    {
+        "tripId": "2061225",
+        "routeId": "14",
+        "scheduleRelationship": null,
+        "id": "526",
+        "stopSequence": 0,
+        "arrival_delay": 1189
+    },
+    {
+        "tripId": "2061256",
+        "routeId": "14",
+        "scheduleRelationship": null,
+        "id": "534",
+        "stopSequence": 3,
+        "arrival_delay": 31
+    },
+    {
+        "tripId": "2061284",
+        "routeId": "14",
+        "scheduleRelationship": null,
+        "id": "553",
+        "stopSequence": 12,
+        "arrival_delay": 33
+    },
+    {
+        "tripId": "2061316",
+        "routeId": "14",
+        "scheduleRelationship": null,
+        "id": "515",
+        "stopSequence": 1,
+        "arrival_delay": -5
+    },
+    {
+        "tripId": "2061347",
+        "routeId": "15",
+        "scheduleRelationship": null,
+        "id": "543",
+        "stopSequence": 0,
+        "arrival_delay": 292
+    },
+    {
+        "tripId": "2061377",
+        "routeId": "15",
+        "scheduleRelationship": null,
+        "id": "535",
+        "stopSequence": 9,
+        "arrival_delay": -7
+    },
+    {
+        "tripId": "2061403",
+        "routeId": "15",
+        "scheduleRelationship": null,
+        "id": "540",
+        "stopSequence": 0,
+        "arrival_delay": 650
+    },
+    {
+        "tripId": "2061434",
+        "routeId": "15",
+        "scheduleRelationship": null,
+        "id": "537",
+        "stopSequence": 8,
+        "arrival_delay": -27
+    },
+    {
+        "tripId": "2061462",
+        "routeId": "16",
+        "scheduleRelationship": null,
+        "id": "610",
+        "stopSequence": 5,
+        "arrival_delay": 21
+    },
+    {
+        "tripId": "2061482",
+        "routeId": "16",
+        "scheduleRelationship": null,
+        "id": "930",
+        "stopSequence": 16,
+        "arrival_delay": -120
+    },
+    {
+        "tripId": "2061508",
+        "routeId": "16",
+        "scheduleRelationship": null,
+        "id": "937",
+        "stopSequence": 10,
+        "arrival_delay": 32
+    },
+    {
+        "tripId": "2061530",
+        "routeId": "16",
+        "scheduleRelationship": null,
+        "id": "556",
+        "stopSequence": 0,
+        "arrival_delay": 170
+    },
+    {
+        "tripId": "2061555",
+        "routeId": "16",
+        "scheduleRelationship": null,
+        "id": "618",
+        "stopSequence": 20,
+        "arrival_delay": -62
+    },
+    {
+        "tripId": "2061581",
+        "routeId": "16",
+        "scheduleRelationship": null,
+        "id": "522",
+        "stopSequence": 14,
+        "arrival_delay": -128
+    },
+    {
+        "tripId": "2061605",
+        "routeId": "16",
+        "scheduleRelationship": null,
+        "id": "628",
+        "stopSequence": 8,
+        "arrival_delay": 78
+    },
+    {
+        "tripId": "2061631",
+        "routeId": "16",
+        "scheduleRelationship": null,
+        "id": "516",
+        "stopSequence": 0,
+        "arrival_delay": 47
+    },
+    {
+        "tripId": "2061655",
+        "routeId": "16",
+        "scheduleRelationship": null,
+        "id": "630",
+        "stopSequence": 0,
+        "arrival_delay": 650
+    },
+    {
+        "tripId": "2061677",
+        "routeId": "16",
+        "scheduleRelationship": null,
+        "id": "525",
+        "stopSequence": 0,
+        "arrival_delay": 1249
+    },
+    {
+        "tripId": "2061694",
+        "routeId": "17",
+        "scheduleRelationship": null,
+        "id": "460",
+        "stopSequence": 0,
+        "arrival_delay": 436
+    },
+    {
+        "tripId": "2061707",
+        "routeId": "17",
+        "scheduleRelationship": null,
+        "id": "421",
+        "stopSequence": 0,
+        "arrival_delay": 1665
+    },
+    {
+        "tripId": "2061729",
+        "routeId": "17",
+        "scheduleRelationship": null,
+        "id": "927",
+        "stopSequence": 16,
+        "arrival_delay": -58
+    },
+    {
+        "tripId": "2061752",
+        "routeId": "17",
+        "scheduleRelationship": null,
+        "id": "417",
+        "stopSequence": 4,
+        "arrival_delay": -5
+    },
+    {
+        "tripId": "2061775",
+        "routeId": "17",
+        "scheduleRelationship": null,
+        "id": "919",
+        "stopSequence": 25,
+        "arrival_delay": -9
+    },
+    {
+        "tripId": "2061799",
+        "routeId": "17",
+        "scheduleRelationship": null,
+        "id": "626",
+        "stopSequence": 12,
+        "arrival_delay": 97
+    },
+    {
+        "tripId": "2061822",
+        "routeId": "18",
+        "scheduleRelationship": null,
+        "id": "613",
+        "stopSequence": 2,
+        "arrival_delay": 12
+    },
+    {
+        "tripId": "2061848",
+        "routeId": "18",
+        "scheduleRelationship": null,
+        "id": "606",
+        "stopSequence": 0,
+        "arrival_delay": 1143
+    },
+    {
+        "tripId": "2061869",
+        "routeId": "18",
+        "scheduleRelationship": null,
+        "id": "621",
+        "stopSequence": 12,
+        "arrival_delay": -13
+    },
+    {
+        "tripId": "2061893",
+        "routeId": "18",
+        "scheduleRelationship": null,
+        "id": "929",
+        "stopSequence": 0,
+        "arrival_delay": 60
+    },
+    {
+        "tripId": "2061914",
+        "routeId": "18",
+        "scheduleRelationship": null,
+        "id": "940",
+        "stopSequence": 16,
+        "arrival_delay": -62
+    },
+    {
+        "tripId": "2061941",
+        "routeId": "7",
+        "scheduleRelationship": null,
+        "id": "915",
+        "stopSequence": 4,
+        "arrival_delay": 87
+    },
+    {
+        "tripId": "2061964",
+        "routeId": "2",
+        "scheduleRelationship": null,
+        "id": "416",
+        "stopSequence": 9,
+        "arrival_delay": 26
+    },
+    {
+        "tripId": "2061990",
+        "routeId": "2",
+        "scheduleRelationship": null,
+        "id": "451",
+        "stopSequence": 0,
+        "arrival_delay": 464
+    },
+    {
+        "tripId": "2062011",
+        "routeId": "7",
+        "scheduleRelationship": null,
+        "id": "418",
+        "stopSequence": 6,
+        "arrival_delay": -7
+    },
+    {
+        "tripId": "2062037",
+        "routeId": "7",
+        "scheduleRelationship": null,
+        "id": "911",
+        "stopSequence": 18,
+        "arrival_delay": 58
+    },
+    {
+        "tripId": "2062059",
+        "routeId": "5",
+        "scheduleRelationship": null,
+        "id": "412",
+        "stopSequence": 0,
+        "arrival_delay": 360
+    },
+    {
+        "tripId": "2062106",
+        "routeId": "5",
+        "scheduleRelationship": null,
+        "id": "411",
+        "stopSequence": 17,
+        "arrival_delay": 0
+    },
+    {
+        "tripId": "2062128",
+        "routeId": "5",
+        "scheduleRelationship": null,
+        "id": "527",
+        "stopSequence": 2,
+        "arrival_delay": -2
+    },
+    {
+        "tripId": "2062147",
+        "routeId": "5",
+        "scheduleRelationship": null,
+        "id": "405",
+        "stopSequence": 23,
+        "arrival_delay": 2
+    },
+    {
+        "tripId": "2062171",
+        "routeId": "5",
+        "scheduleRelationship": null,
+        "id": "542",
+        "stopSequence": 10,
+        "arrival_delay": 57
+    },
+    {
+        "tripId": "2062192",
+        "routeId": "6",
+        "scheduleRelationship": null,
+        "id": "529",
+        "stopSequence": 0,
+        "arrival_delay": 245
+    },
+    {
+        "tripId": "2062214",
+        "routeId": "6",
+        "scheduleRelationship": null,
+        "id": "510",
+        "stopSequence": 26,
+        "arrival_delay": 49
+    },
+    {
+        "tripId": "2062238",
+        "routeId": "6",
+        "scheduleRelationship": null,
+        "id": "536",
+        "stopSequence": 9,
+        "arrival_delay": -81
+    },
+    {
+        "tripId": "2062259",
+        "routeId": "6",
+        "scheduleRelationship": null,
+        "id": "514",
+        "stopSequence": 0,
+        "arrival_delay": 480
+    },
+    {
+        "tripId": "2062278",
+        "routeId": "6",
+        "scheduleRelationship": null,
+        "id": "551",
+        "stopSequence": 26,
+        "arrival_delay": -39
+    },
+    {
+        "tripId": "2062302",
+        "routeId": "6",
+        "scheduleRelationship": null,
+        "id": "512",
+        "stopSequence": 15,
+        "arrival_delay": 137
+    },
+    {
+        "tripId": "2062322",
+        "routeId": "2",
+        "scheduleRelationship": null,
+        "id": "453",
+        "stopSequence": 21,
+        "arrival_delay": -13
+    },
+    {
+        "tripId": "2062345",
+        "routeId": "2",
+        "scheduleRelationship": null,
+        "id": "420",
+        "stopSequence": 0,
+        "arrival_delay": 1683
+    },
+    {
+        "tripId": "2062370",
+        "routeId": "2",
+        "scheduleRelationship": null,
+        "id": "441",
+        "stopSequence": 11,
+        "arrival_delay": 55
+    },
+    {
+        "tripId": "2062397",
+        "routeId": "2",
+        "scheduleRelationship": null,
+        "id": "415",
+        "stopSequence": 0,
+        "arrival_delay": 243
+    },
+    {
+        "tripId": "2062424",
+        "routeId": "7",
+        "scheduleRelationship": null,
+        "id": "442",
+        "stopSequence": 19,
+        "arrival_delay": -6
+    },
+    {
+        "tripId": "2062446",
+        "routeId": "8",
+        "scheduleRelationship": null,
+        "id": "433",
+        "stopSequence": 17,
+        "arrival_delay": -70
+    },
+    {
+        "tripId": "2062473",
+        "routeId": "8",
+        "scheduleRelationship": null,
+        "id": "914",
+        "stopSequence": 3,
+        "arrival_delay": -8
+    },
+    {
+        "tripId": "2062499",
+        "routeId": "8",
+        "scheduleRelationship": null,
+        "id": "426",
+        "stopSequence": 0,
+        "arrival_delay": 1078
+    },
+    {
+        "tripId": "2062518",
+        "routeId": "8",
+        "scheduleRelationship": null,
+        "id": "452",
+        "stopSequence": 11,
+        "arrival_delay": -193
+    },
+    {
+        "tripId": "2062545",
+        "routeId": "8",
+        "scheduleRelationship": null,
+        "id": "916",
+        "stopSequence": 0,
+        "arrival_delay": 123
+    },
+    {
+        "tripId": "2062569",
+        "routeId": "10",
+        "scheduleRelationship": null,
+        "id": "509",
+        "stopSequence": 4,
+        "arrival_delay": -11
+    },
+    {
+        "tripId": "2062590",
+        "routeId": "9",
+        "scheduleRelationship": null,
+        "id": "501",
+        "stopSequence": 30,
+        "arrival_delay": 50
+    },
+    {
+        "tripId": "2062608",
+        "routeId": "999",
+        "scheduleRelationship": null,
+        "id": "446",
+        "stopSequence": 11,
+        "arrival_delay": 14570
+    },
+    {
+        "tripId": "2062612",
+        "routeId": "999",
+        "scheduleRelationship": null,
+        "id": "459",
+        "stopSequence": 12,
+        "arrival_delay": 13805
+    },
+    {
+        "tripId": "2062628",
+        "routeId": "999",
+        "scheduleRelationship": null,
+        "id": "436",
+        "stopSequence": 0,
+        "arrival_delay": 14377
+    },
+    {
+        "tripId": "2151943",
+        "routeId": "901",
+        "scheduleRelationship": null,
+        "id": "9102",
+        "stopSequence": 19,
+        "arrival_delay": -52
+    },
+    {
+        "tripId": "2151966",
+        "routeId": "901",
+        "scheduleRelationship": null,
+        "id": "9121",
+        "stopSequence": 23,
+        "arrival_delay": -2
+    },
+    {
+        "tripId": "2151990",
+        "routeId": "904",
+        "scheduleRelationship": null,
+        "id": "9108",
+        "stopSequence": 9,
+        "arrival_delay": -186
+    },
+    {
+        "tripId": "2152027",
+        "routeId": "902",
+        "scheduleRelationship": null,
+        "id": "9103",
+        "stopSequence": 3,
+        "arrival_delay": -24
+    },
+    {
+        "tripId": "2152051",
+        "routeId": "905",
+        "scheduleRelationship": null,
+        "id": "9122",
+        "stopSequence": 20,
+        "arrival_delay": -91
+    },
+    {
+        "tripId": "2152068",
+        "routeId": "905",
+        "scheduleRelationship": null,
+        "id": "9116",
+        "stopSequence": 0,
+        "arrival_delay": -3
+    },
+    {
+        "tripId": "2152084",
+        "routeId": "905",
+        "scheduleRelationship": null,
+        "id": "9123",
+        "stopSequence": 28,
+        "arrival_delay": 45
+    },
+    {
+        "tripId": "2223364",
+        "routeId": "701",
+        "scheduleRelationship": null,
+        "id": "7034",
+        "stopSequence": 6,
+        "arrival_delay": -205
+    },
+    {
+        "tripId": "2223392",
+        "routeId": "702",
+        "scheduleRelationship": null,
+        "id": "7035",
+        "stopSequence": 0,
+        "arrival_delay": 603
+    },
+    {
+        "tripId": "2223430",
+        "routeId": "705",
+        "scheduleRelationship": null,
+        "id": "7020",
+        "stopSequence": 14,
+        "arrival_delay": -24
+    },
+    {
+        "tripId": "2223466",
+        "routeId": "716",
+        "scheduleRelationship": null,
+        "id": "7010",
+        "stopSequence": 0,
+        "arrival_delay": 1187
+    },
+    {
+        "tripId": "2223488",
+        "routeId": "729",
+        "scheduleRelationship": null,
+        "id": "7021",
+        "stopSequence": 13,
+        "arrival_delay": 31
+    },
+    {
+        "tripId": "2244835",
+        "routeId": "144",
+        "scheduleRelationship": null,
+        "id": "1468",
+        "stopSequence": 6,
+        "arrival_delay": -21
+    },
+    {
+        "tripId": "2244872",
+        "routeId": "144",
+        "scheduleRelationship": null,
+        "id": "1469",
+        "stopSequence": 4,
+        "arrival_delay": -84
+    },
+    {
+        "tripId": "2244912",
+        "routeId": "145",
+        "scheduleRelationship": null,
+        "id": "1470",
+        "stopSequence": 7,
+        "arrival_delay": -136
+    },
+    {
+        "tripId": "2244969",
+        "routeId": "145",
+        "scheduleRelationship": null,
+        "id": "1124",
+        "stopSequence": 6,
+        "arrival_delay": 18
+    },
+    {
+        "tripId": "2244997",
+        "routeId": "146",
+        "scheduleRelationship": null,
+        "id": "1844",
+        "stopSequence": 18,
+        "arrival_delay": 45
+    },
+    {
+        "tripId": "2245025",
+        "routeId": "146",
+        "scheduleRelationship": null,
+        "id": "1849",
+        "stopSequence": 0,
+        "arrival_delay": 590
+    },
+    {
+        "tripId": "2245050",
+        "routeId": "146",
+        "scheduleRelationship": null,
+        "id": "1846",
+        "stopSequence": 11,
+        "arrival_delay": -111
+    },
+    {
+        "tripId": "2245083",
+        "routeId": "148",
+        "scheduleRelationship": null,
+        "id": "1455",
+        "stopSequence": 4,
+        "arrival_delay": -191
+    },
+    {
+        "tripId": "2245115",
+        "routeId": "148",
+        "scheduleRelationship": null,
+        "id": "1457",
+        "stopSequence": 4,
+        "arrival_delay": 3
+    },
+    {
+        "tripId": "2245136",
+        "routeId": "168",
+        "scheduleRelationship": null,
+        "id": "1479",
+        "stopSequence": 0,
+        "arrival_delay": 254
+    },
+    {
+        "tripId": "2245177",
+        "routeId": "149",
+        "scheduleRelationship": null,
+        "id": "1753",
+        "stopSequence": 6,
+        "arrival_delay": -34
+    },
+    {
+        "tripId": "2245206",
+        "routeId": "149",
+        "scheduleRelationship": null,
+        "id": "1755",
+        "stopSequence": 16,
+        "arrival_delay": -91
+    },
+    {
+        "tripId": "2245235",
+        "routeId": "150",
+        "scheduleRelationship": null,
+        "id": "1475",
+        "stopSequence": 13,
+        "arrival_delay": -167
+    },
+    {
+        "tripId": "2245263",
+        "routeId": "150",
+        "scheduleRelationship": null,
+        "id": "1480",
+        "stopSequence": 0,
+        "arrival_delay": 890
+    },
+    {
+        "tripId": "2245314",
+        "routeId": "151",
+        "scheduleRelationship": null,
+        "id": "1863",
+        "stopSequence": 0,
+        "arrival_delay": 949
+    },
+    {
+        "tripId": "2245337",
+        "routeId": "151",
+        "scheduleRelationship": null,
+        "id": "1871",
+        "stopSequence": 18,
+        "arrival_delay": -166
+    },
+    {
+        "tripId": "2245360",
+        "routeId": "151",
+        "scheduleRelationship": null,
+        "id": "1887",
+        "stopSequence": 7,
+        "arrival_delay": -24
+    },
+    {
+        "tripId": "2245383",
+        "routeId": "151",
+        "scheduleRelationship": null,
+        "id": "1869",
+        "stopSequence": 0,
+        "arrival_delay": 305
+    },
+    {
+        "tripId": "2245405",
+        "routeId": "151",
+        "scheduleRelationship": null,
+        "id": "1909",
+        "stopSequence": 16,
+        "arrival_delay": -201
+    },
+    {
+        "tripId": "2245427",
+        "routeId": "174",
+        "scheduleRelationship": null,
+        "id": "1708",
+        "stopSequence": 24,
+        "arrival_delay": -73
+    },
+    {
+        "tripId": "2245445",
+        "routeId": "184",
+        "scheduleRelationship": null,
+        "id": "1670",
+        "stopSequence": 18,
+        "arrival_delay": 35
+    },
+    {
+        "tripId": "2245470",
+        "routeId": "166",
+        "scheduleRelationship": null,
+        "id": "1666",
+        "stopSequence": 18,
+        "arrival_delay": -67
+    },
+    {
+        "tripId": "2245492",
+        "routeId": "166",
+        "scheduleRelationship": null,
+        "id": "1671",
+        "stopSequence": 0,
+        "arrival_delay": 65
+    },
+    {
+        "tripId": "2245522",
+        "routeId": "155",
+        "scheduleRelationship": null,
+        "id": "1874",
+        "stopSequence": 8,
+        "arrival_delay": 15
+    },
+    {
+        "tripId": "2245555",
+        "routeId": "155",
+        "scheduleRelationship": null,
+        "id": "1892",
+        "stopSequence": 0,
+        "arrival_delay": 3
+    },
+    {
+        "tripId": "2245609",
+        "routeId": "157",
+        "scheduleRelationship": null,
+        "id": "1760",
+        "stopSequence": 6,
+        "arrival_delay": -133
+    },
+    {
+        "tripId": "2245648",
+        "routeId": "158",
+        "scheduleRelationship": null,
+        "id": "1865",
+        "stopSequence": 14,
+        "arrival_delay": 2
+    },
+    {
+        "tripId": "2245684",
+        "routeId": "158",
+        "scheduleRelationship": null,
+        "id": "1876",
+        "stopSequence": 0,
+        "arrival_delay": 892
+    },
+    {
+        "tripId": "2245713",
+        "routeId": "159",
+        "scheduleRelationship": null,
+        "id": "1459",
+        "stopSequence": 15,
+        "arrival_delay": -204
+    },
+    {
+        "tripId": "2245745",
+        "routeId": "159",
+        "scheduleRelationship": null,
+        "id": "1450",
+        "stopSequence": 7,
+        "arrival_delay": 46
+    },
+    {
+        "tripId": "2245776",
+        "routeId": "159",
+        "scheduleRelationship": null,
+        "id": "1461",
+        "stopSequence": 8,
+        "arrival_delay": -94
+    },
+    {
+        "tripId": "2245806",
+        "routeId": "159",
+        "scheduleRelationship": null,
+        "id": "1462",
+        "stopSequence": 0,
+        "arrival_delay": 527
+    },
+    {
+        "tripId": "2245853",
+        "routeId": "160",
+        "scheduleRelationship": null,
+        "id": "1501",
+        "stopSequence": 20,
+        "arrival_delay": -73
+    },
+    {
+        "tripId": "2245893",
+        "routeId": "160",
+        "scheduleRelationship": null,
+        "id": "1502",
+        "stopSequence": 0,
+        "arrival_delay": 170
+    },
+    {
+        "tripId": "2245928",
+        "routeId": "156",
+        "scheduleRelationship": null,
+        "id": "1296",
+        "stopSequence": 0,
+        "arrival_delay": 230
+    },
+    {
+        "tripId": "2245953",
+        "routeId": "196",
+        "scheduleRelationship": null,
+        "id": "1663",
+        "stopSequence": 8,
+        "arrival_delay": -95
+    },
+    {
+        "tripId": "2245972",
+        "routeId": "184",
+        "scheduleRelationship": null,
+        "id": "1664",
+        "stopSequence": 0,
+        "arrival_delay": 55
+    },
+    {
+        "tripId": "2246011",
+        "routeId": "152",
+        "scheduleRelationship": null,
+        "id": "1467",
+        "stopSequence": 8,
+        "arrival_delay": -71
+    },
+    {
+        "tripId": "2246031",
+        "routeId": "163",
+        "scheduleRelationship": null,
+        "id": "1132",
+        "stopSequence": 16,
+        "arrival_delay": -122
+    },
+    {
+        "tripId": "2246070",
+        "routeId": "163",
+        "scheduleRelationship": null,
+        "id": "1503",
+        "stopSequence": 5,
+        "arrival_delay": -11
+    },
+    {
+        "tripId": "2246093",
+        "routeId": "163",
+        "scheduleRelationship": null,
+        "id": "1506",
+        "stopSequence": 16,
+        "arrival_delay": -160
+    },
+    {
+        "tripId": "2246117",
+        "routeId": "163",
+        "scheduleRelationship": null,
+        "id": "1505",
+        "stopSequence": 0,
+        "arrival_delay": 589
+    },
+    {
+        "tripId": "2246157",
+        "routeId": "176",
+        "scheduleRelationship": null,
+        "id": "1476",
+        "stopSequence": 12,
+        "arrival_delay": -195
+    },
+    {
+        "tripId": "2246182",
+        "routeId": "164",
+        "scheduleRelationship": null,
+        "id": "1451",
+        "stopSequence": 3,
+        "arrival_delay": -101
+    },
+    {
+        "tripId": "2246235",
+        "routeId": "164",
+        "scheduleRelationship": null,
+        "id": "1452",
+        "stopSequence": 25,
+        "arrival_delay": -242
+    },
+    {
+        "tripId": "2246255",
+        "routeId": "164",
+        "scheduleRelationship": null,
+        "id": "1453",
+        "stopSequence": 12,
+        "arrival_delay": -75
+    },
+    {
+        "tripId": "2246277",
+        "routeId": "164",
+        "scheduleRelationship": null,
+        "id": "1135",
+        "stopSequence": 0,
+        "arrival_delay": 300
+    },
+    {
+        "tripId": "2246301",
+        "routeId": "164",
+        "scheduleRelationship": null,
+        "id": "1483",
+        "stopSequence": 20,
+        "arrival_delay": 2
+    },
+    {
+        "tripId": "2246330",
+        "routeId": "189",
+        "scheduleRelationship": null,
+        "id": "1757",
+        "stopSequence": 5,
+        "arrival_delay": -61
+    },
+    {
+        "tripId": "2246363",
+        "routeId": "165",
+        "scheduleRelationship": null,
+        "id": "1762",
+        "stopSequence": 0,
+        "arrival_delay": 57
+    },
+    {
+        "tripId": "2246392",
+        "routeId": "152",
+        "scheduleRelationship": null,
+        "id": "1674",
+        "stopSequence": 5,
+        "arrival_delay": -124
+    },
+    {
+        "tripId": "2246415",
+        "routeId": "348",
+        "scheduleRelationship": null,
+        "id": "1669",
+        "stopSequence": 21,
+        "arrival_delay": -88
+    },
+    {
+        "tripId": "2246434",
+        "routeId": "157",
+        "scheduleRelationship": null,
+        "id": "1659",
+        "stopSequence": 10,
+        "arrival_delay": -13
+    },
+    {
+        "tripId": "2246466",
+        "routeId": "167",
+        "scheduleRelationship": null,
+        "id": "1879",
+        "stopSequence": 0,
+        "arrival_delay": 1790
+    },
+    {
+        "tripId": "2246513",
+        "routeId": "183",
+        "scheduleRelationship": null,
+        "id": "1466",
+        "stopSequence": 18,
+        "arrival_delay": 57
+    },
+    {
+        "tripId": "2246550",
+        "routeId": "168",
+        "scheduleRelationship": null,
+        "id": "1851",
+        "stopSequence": 0,
+        "arrival_delay": 494
+    },
+    {
+        "tripId": "2246575",
+        "routeId": "168",
+        "scheduleRelationship": null,
+        "id": "1477",
+        "stopSequence": 15,
+        "arrival_delay": 52
+    },
+    {
+        "tripId": "2246603",
+        "routeId": "168",
+        "scheduleRelationship": null,
+        "id": "1860",
+        "stopSequence": 0,
+        "arrival_delay": 290
+    },
+    {
+        "tripId": "2246622",
+        "routeId": "911",
+        "scheduleRelationship": null,
+        "id": "1853",
+        "stopSequence": 6,
+        "arrival_delay": -68
+    },
+    {
+        "tripId": "2246639",
+        "routeId": "169",
+        "scheduleRelationship": null,
+        "id": "1252",
+        "stopSequence": 0,
+        "arrival_delay": 545
+    },
+    {
+        "tripId": "2246686",
+        "routeId": "169",
+        "scheduleRelationship": null,
+        "id": "1271",
+        "stopSequence": 0,
+        "arrival_delay": 1745
+    },
+    {
+        "tripId": "2246705",
+        "routeId": "169",
+        "scheduleRelationship": null,
+        "id": "1277",
+        "stopSequence": 20,
+        "arrival_delay": -230
+    },
+    {
+        "tripId": "2246725",
+        "routeId": "169",
+        "scheduleRelationship": null,
+        "id": "1259",
+        "stopSequence": 10,
+        "arrival_delay": 43
+    },
+    {
+        "tripId": "2246756",
+        "routeId": "169",
+        "scheduleRelationship": null,
+        "id": "1284",
+        "stopSequence": 0,
+        "arrival_delay": 347
+    },
+    {
+        "tripId": "2246775",
+        "routeId": "169",
+        "scheduleRelationship": null,
+        "id": "1274",
+        "stopSequence": 6,
+        "arrival_delay": -90
+    },
+    {
+        "tripId": "2246805",
+        "routeId": "171",
+        "scheduleRelationship": null,
+        "id": "1856",
+        "stopSequence": 0,
+        "arrival_delay": 65
+    },
+    {
+        "tripId": "2246827",
+        "routeId": "171",
+        "scheduleRelationship": null,
+        "id": "1915",
+        "stopSequence": 28,
+        "arrival_delay": -65
+    },
+    {
+        "tripId": "2246849",
+        "routeId": "171",
+        "scheduleRelationship": null,
+        "id": "1908",
+        "stopSequence": 16,
+        "arrival_delay": -31
+    },
+    {
+        "tripId": "2246871",
+        "routeId": "171",
+        "scheduleRelationship": null,
+        "id": "1905",
+        "stopSequence": 4,
+        "arrival_delay": -11
+    },
+    {
+        "tripId": "2246892",
+        "routeId": "171",
+        "scheduleRelationship": null,
+        "id": "1911",
+        "stopSequence": 27,
+        "arrival_delay": -146
+    },
+    {
+        "tripId": "2246912",
+        "routeId": "171",
+        "scheduleRelationship": null,
+        "id": "1867",
+        "stopSequence": 14,
+        "arrival_delay": -48
+    },
+    {
+        "tripId": "2246932",
+        "routeId": "191",
+        "scheduleRelationship": null,
+        "id": "1889",
+        "stopSequence": 3,
+        "arrival_delay": -44
+    },
+    {
+        "tripId": "2246966",
+        "routeId": "173",
+        "scheduleRelationship": null,
+        "id": "1638",
+        "stopSequence": 0,
+        "arrival_delay": 598
+    },
+    {
+        "tripId": "2246992",
+        "routeId": "174",
+        "scheduleRelationship": null,
+        "id": "1710",
+        "stopSequence": 11,
+        "arrival_delay": -285
+    },
+    {
+        "tripId": "2247029",
+        "routeId": "151",
+        "scheduleRelationship": null,
+        "id": "1870",
+        "stopSequence": 3,
+        "arrival_delay": -130
+    },
+    {
+        "tripId": "2247050",
+        "routeId": "174",
+        "scheduleRelationship": null,
+        "id": "1701",
+        "stopSequence": 0,
+        "arrival_delay": -2
+    },
+    {
+        "tripId": "2247071",
+        "routeId": "174",
+        "scheduleRelationship": null,
+        "id": "1705",
+        "stopSequence": 11,
+        "arrival_delay": -89
+    },
+    {
+        "tripId": "2247093",
+        "routeId": "174",
+        "scheduleRelationship": null,
+        "id": "1706",
+        "stopSequence": 0,
+        "arrival_delay": 232
+    },
+    {
+        "tripId": "2247115",
+        "routeId": "174",
+        "scheduleRelationship": null,
+        "id": "1858",
+        "stopSequence": 0,
+        "arrival_delay": 1432
+    },
+    {
+        "tripId": "2247133",
+        "routeId": "174",
+        "scheduleRelationship": null,
+        "id": "1704",
+        "stopSequence": 25,
+        "arrival_delay": -207
+    },
+    {
+        "tripId": "2247150",
+        "routeId": "182",
+        "scheduleRelationship": null,
+        "id": "1127",
+        "stopSequence": 20,
+        "arrival_delay": -235
+    },
+    {
+        "tripId": "2247188",
+        "routeId": "150",
+        "scheduleRelationship": null,
+        "id": "1121",
+        "stopSequence": 11,
+        "arrival_delay": 2
+    },
+    {
+        "tripId": "2247216",
+        "routeId": "175",
+        "scheduleRelationship": null,
+        "id": "1128",
+        "stopSequence": 9,
+        "arrival_delay": -52
+    },
+    {
+        "tripId": "2247239",
+        "routeId": "176",
+        "scheduleRelationship": null,
+        "id": "1134",
+        "stopSequence": 0,
+        "arrival_delay": 2894
+    },
+    {
+        "tripId": "2247255",
+        "routeId": "163",
+        "scheduleRelationship": null,
+        "id": "1655",
+        "stopSequence": 1,
+        "arrival_delay": -2408
+    },
+    {
+        "tripId": "2247275",
+        "routeId": "160",
+        "scheduleRelationship": null,
+        "id": "1504",
+        "stopSequence": 3,
+        "arrival_delay": 18
+    },
+    {
+        "tripId": "2247308",
+        "routeId": "154",
+        "scheduleRelationship": null,
+        "id": "1643",
+        "stopSequence": 0,
+        "arrival_delay": -11
+    },
+    {
+        "tripId": "2247352",
+        "routeId": "177",
+        "scheduleRelationship": null,
+        "id": "1261",
+        "stopSequence": 23,
+        "arrival_delay": -120
+    },
+    {
+        "tripId": "2247380",
+        "routeId": "177",
+        "scheduleRelationship": null,
+        "id": "1262",
+        "stopSequence": 0,
+        "arrival_delay": 5
+    },
+    {
+        "tripId": "2247404",
+        "routeId": "177",
+        "scheduleRelationship": null,
+        "id": "1263",
+        "stopSequence": 15,
+        "arrival_delay": -243
+    },
+    {
+        "tripId": "2247447",
+        "routeId": "178",
+        "scheduleRelationship": null,
+        "id": "1763",
+        "stopSequence": 1,
+        "arrival_delay": -13
+    },
+    {
+        "tripId": "2247473",
+        "routeId": "178",
+        "scheduleRelationship": null,
+        "id": "1772",
+        "stopSequence": 6,
+        "arrival_delay": -61
+    },
+    {
+        "tripId": "2247495",
+        "routeId": "179",
+        "scheduleRelationship": null,
+        "id": "1493",
+        "stopSequence": 1,
+        "arrival_delay": 4219
+    },
+    {
+        "tripId": "2247528",
+        "routeId": "179",
+        "scheduleRelationship": null,
+        "id": "1130",
+        "stopSequence": 0,
+        "arrival_delay": 295
+    },
+    {
+        "tripId": "2247548",
+        "routeId": "179",
+        "scheduleRelationship": null,
+        "id": "1129",
+        "stopSequence": 15,
+        "arrival_delay": -193
+    },
+    {
+        "tripId": "2247586",
+        "routeId": "180",
+        "scheduleRelationship": null,
+        "id": "1752",
+        "stopSequence": 11,
+        "arrival_delay": -23
+    },
+    {
+        "tripId": "2247619",
+        "routeId": "181",
+        "scheduleRelationship": null,
+        "id": "1764",
+        "stopSequence": 0,
+        "arrival_delay": 538
+    },
+    {
+        "tripId": "2247710",
+        "routeId": "182",
+        "scheduleRelationship": null,
+        "id": "1280",
+        "stopSequence": 8,
+        "arrival_delay": -271
+    },
+    {
+        "tripId": "2247728",
+        "routeId": "182",
+        "scheduleRelationship": null,
+        "id": "1278",
+        "stopSequence": 0,
+        "arrival_delay": 467
+    },
+    {
+        "tripId": "2247750",
+        "routeId": "182",
+        "scheduleRelationship": null,
+        "id": "1861",
+        "stopSequence": 11,
+        "arrival_delay": -89
+    },
+    {
+        "tripId": "2247773",
+        "routeId": "182",
+        "scheduleRelationship": null,
+        "id": "1906",
+        "stopSequence": 0,
+        "arrival_delay": 65
+    },
+    {
+        "tripId": "2247796",
+        "routeId": "182",
+        "scheduleRelationship": null,
+        "id": "1291",
+        "stopSequence": 1,
+        "arrival_delay": -704
+    },
+    {
+        "tripId": "2247821",
+        "routeId": "164",
+        "scheduleRelationship": null,
+        "id": "1276",
+        "stopSequence": 16,
+        "arrival_delay": 911
+    },
+    {
+        "tripId": "2247841",
+        "routeId": "183",
+        "scheduleRelationship": null,
+        "id": "1625",
+        "stopSequence": 0,
+        "arrival_delay": 289
+    },
+    {
+        "tripId": "2247898",
+        "routeId": "178",
+        "scheduleRelationship": null,
+        "id": "1647",
+        "stopSequence": 18,
+        "arrival_delay": -224
+    },
+    {
+        "tripId": "2247920",
+        "routeId": "183",
+        "scheduleRelationship": null,
+        "id": "1464",
+        "stopSequence": 15,
+        "arrival_delay": 20
+    },
+    {
+        "tripId": "2247939",
+        "routeId": "911",
+        "scheduleRelationship": null,
+        "id": "1880",
+        "stopSequence": 0,
+        "arrival_delay": 112
+    },
+    {
+        "tripId": "2247954",
+        "routeId": "176",
+        "scheduleRelationship": null,
+        "id": "1661",
+        "stopSequence": 0,
+        "arrival_delay": 957
+    },
+    {
+        "tripId": "2248054",
+        "routeId": "184",
+        "scheduleRelationship": null,
+        "id": "1676",
+        "stopSequence": 0,
+        "arrival_delay": 1067
+    },
+    {
+        "tripId": "2248074",
+        "routeId": "162",
+        "scheduleRelationship": null,
+        "id": "1668",
+        "stopSequence": 20,
+        "arrival_delay": 663
+    },
+    {
+        "tripId": "2248094",
+        "routeId": "166",
+        "scheduleRelationship": null,
+        "id": "1675",
+        "stopSequence": 0,
+        "arrival_delay": 710
+    },
+    {
+        "tripId": "2248118",
+        "routeId": "185",
+        "scheduleRelationship": null,
+        "id": "1651",
+        "stopSequence": 0,
+        "arrival_delay": 352
+    },
+    {
+        "tripId": "2248172",
+        "routeId": "185",
+        "scheduleRelationship": null,
+        "id": "1633",
+        "stopSequence": 10,
+        "arrival_delay": -101
+    },
+    {
+        "tripId": "2248198",
+        "routeId": "185",
+        "scheduleRelationship": null,
+        "id": "1626",
+        "stopSequence": 0,
+        "arrival_delay": 167
+    },
+    {
+        "tripId": "2248223",
+        "routeId": "185",
+        "scheduleRelationship": null,
+        "id": "1628",
+        "stopSequence": 25,
+        "arrival_delay": -120
+    },
+    {
+        "tripId": "2248250",
+        "routeId": "185",
+        "scheduleRelationship": null,
+        "id": "1645",
+        "stopSequence": 11,
+        "arrival_delay": -131
+    },
+    {
+        "tripId": "2248283",
+        "routeId": "194",
+        "scheduleRelationship": null,
+        "id": "1768",
+        "stopSequence": 0,
+        "arrival_delay": 389
+    },
+    {
+        "tripId": "2248320",
+        "routeId": "190",
+        "scheduleRelationship": null,
+        "id": "1709",
+        "stopSequence": 25,
+        "arrival_delay": -71
+    },
+    {
+        "tripId": "2248345",
+        "routeId": "190",
+        "scheduleRelationship": null,
+        "id": "1711",
+        "stopSequence": 9,
+        "arrival_delay": -11
+    },
+    {
+        "tripId": "2248370",
+        "routeId": "190",
+        "scheduleRelationship": null,
+        "id": "1712",
+        "stopSequence": 23,
+        "arrival_delay": -114
+    },
+    {
+        "tripId": "2248395",
+        "routeId": "190",
+        "scheduleRelationship": null,
+        "id": "1713",
+        "stopSequence": 9,
+        "arrival_delay": 5
+    },
+    {
+        "tripId": "2248418",
+        "routeId": "191",
+        "scheduleRelationship": null,
+        "id": "1914",
+        "stopSequence": 4,
+        "arrival_delay": -109
+    },
+    {
+        "tripId": "2248438",
+        "routeId": "191",
+        "scheduleRelationship": null,
+        "id": "1292",
+        "stopSequence": 18,
+        "arrival_delay": -128
+    },
+    {
+        "tripId": "2248471",
+        "routeId": "195",
+        "scheduleRelationship": null,
+        "id": "1272",
+        "stopSequence": 7,
+        "arrival_delay": -67
+    },
+    {
+        "tripId": "2248495",
+        "routeId": "190",
+        "scheduleRelationship": null,
+        "id": "1715",
+        "stopSequence": 0,
+        "arrival_delay": 605
+    },
+    {
+        "tripId": "2248516",
+        "routeId": "191",
+        "scheduleRelationship": null,
+        "id": "1290",
+        "stopSequence": 0,
+        "arrival_delay": 949
+    },
+    {
+        "tripId": "2248536",
+        "routeId": "191",
+        "scheduleRelationship": null,
+        "id": "1916",
+        "stopSequence": 16,
+        "arrival_delay": -179
+    },
+    {
+        "tripId": "2248558",
+        "routeId": "191",
+        "scheduleRelationship": null,
+        "id": "1275",
+        "stopSequence": 0,
+        "arrival_delay": 707
+    },
+    {
+        "tripId": "2248581",
+        "routeId": "193",
+        "scheduleRelationship": null,
+        "id": "1113",
+        "stopSequence": 15,
+        "arrival_delay": 0
+    },
+    {
+        "tripId": "2248624",
+        "routeId": "193",
+        "scheduleRelationship": null,
+        "id": "1114",
+        "stopSequence": 0,
+        "arrival_delay": 110
+    },
+    {
+        "tripId": "2248649",
+        "routeId": "193",
+        "scheduleRelationship": null,
+        "id": "1115",
+        "stopSequence": 11,
+        "arrival_delay": -138
+    },
+    {
+        "tripId": "2248675",
+        "routeId": "193",
+        "scheduleRelationship": null,
+        "id": "1116",
+        "stopSequence": 2,
+        "arrival_delay": 79
+    },
+    {
+        "tripId": "2248701",
+        "routeId": "193",
+        "scheduleRelationship": null,
+        "id": "1117",
+        "stopSequence": 0,
+        "arrival_delay": 1083
+    },
+    {
+        "tripId": "2248739",
+        "routeId": "165",
+        "scheduleRelationship": null,
+        "id": "1773",
+        "stopSequence": 0,
+        "arrival_delay": 976
+    },
+    {
+        "tripId": "2248777",
+        "routeId": "195",
+        "scheduleRelationship": null,
+        "id": "1270",
+        "stopSequence": 8,
+        "arrival_delay": -241
+    },
+    {
+        "tripId": "2248806",
+        "routeId": "195",
+        "scheduleRelationship": null,
+        "id": "1912",
+        "stopSequence": 0,
+        "arrival_delay": 590
+    },
+    {
+        "tripId": "2248899",
+        "routeId": "322",
+        "scheduleRelationship": null,
+        "id": "1884",
+        "stopSequence": 0,
+        "arrival_delay": 898
+    },
+    {
+        "tripId": "2249017",
+        "routeId": "163",
+        "scheduleRelationship": null,
+        "id": "1474",
+        "stopSequence": 7,
+        "arrival_delay": 60
+    },
+    {
+        "tripId": "2249082",
+        "routeId": "175",
+        "scheduleRelationship": null,
+        "id": "1473",
+        "stopSequence": 3,
+        "arrival_delay": -116
+    },
+    {
+        "tripId": "2249114",
+        "routeId": "169",
+        "scheduleRelationship": null,
+        "id": "1481",
+        "stopSequence": 16,
+        "arrival_delay": -257
+    },
+    {
+        "tripId": "2249204",
+        "routeId": "320",
+        "scheduleRelationship": null,
+        "id": "3024",
+        "stopSequence": 15,
+        "arrival_delay": -102
+    },
+    {
+        "tripId": "2249234",
+        "routeId": "321",
+        "scheduleRelationship": null,
+        "id": "3023",
+        "stopSequence": 8,
+        "arrival_delay": -58
+    },
+    {
+        "tripId": "2249267",
+        "routeId": "322",
+        "scheduleRelationship": null,
+        "id": "1872",
+        "stopSequence": 18,
+        "arrival_delay": 59
+    },
+    {
+        "tripId": "2249293",
+        "routeId": "322",
+        "scheduleRelationship": null,
+        "id": "1873",
+        "stopSequence": 14,
+        "arrival_delay": -222
+    },
+    {
+        "tripId": "2249317",
+        "routeId": "323",
+        "scheduleRelationship": null,
+        "id": "3022",
+        "stopSequence": 4,
+        "arrival_delay": -109
+    },
+    {
+        "tripId": "2249347",
+        "routeId": "727",
+        "scheduleRelationship": null,
+        "id": "1456",
+        "stopSequence": 5,
+        "arrival_delay": 23
+    },
+    {
+        "tripId": "2249367",
+        "routeId": "167",
+        "scheduleRelationship": null,
+        "id": "1878",
+        "stopSequence": 17,
+        "arrival_delay": -188
+    },
+    {
+        "tripId": "2249403",
+        "routeId": "154",
+        "scheduleRelationship": null,
+        "id": "1642",
+        "stopSequence": 0,
+        "arrival_delay": 229
+    },
+    {
+        "tripId": "2249433",
+        "routeId": "168",
+        "scheduleRelationship": null,
+        "id": "1855",
+        "stopSequence": 6,
+        "arrival_delay": -133
+    },
+    {
+        "tripId": "2249452",
+        "routeId": "342",
+        "scheduleRelationship": null,
+        "id": "3025",
+        "stopSequence": 24,
+        "arrival_delay": -116
+    },
+    {
+        "tripId": "2249471",
+        "routeId": "312",
+        "scheduleRelationship": null,
+        "id": "3020",
+        "stopSequence": 0,
+        "arrival_delay": 8698
+    },
+    {
+        "tripId": "2249490",
+        "routeId": "312",
+        "scheduleRelationship": null,
+        "id": "3017",
+        "stopSequence": 0,
+        "arrival_delay": 1445
+    },
+    {
+        "tripId": "2249570",
+        "routeId": "161",
+        "scheduleRelationship": null,
+        "id": "8313",
+        "stopSequence": 3,
+        "arrival_delay": -204
+    },
+    {
+        "tripId": "2249607",
+        "routeId": "156",
+        "scheduleRelationship": null,
+        "id": "8320",
+        "stopSequence": 6,
+        "arrival_delay": -11
+    },
+    {
+        "tripId": "2249641",
+        "routeId": "186",
+        "scheduleRelationship": null,
+        "id": "8322",
+        "stopSequence": 0,
+        "arrival_delay": 1610
+    }
+]

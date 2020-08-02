@@ -4,6 +4,8 @@ namespace App\Console;
 
 use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
+use Illuminate\Support\Facades\Log;
+use Illuminate\Support\Facades\File;
 
 class Kernel extends ConsoleKernel
 {
@@ -25,6 +27,21 @@ class Kernel extends ConsoleKernel
     protected function schedule(Schedule $schedule)
     {
         // $schedule->command('inspire')->hourly();
+        $schedule->call(function () {
+          $output = new \Symfony\Component\Console\Output\ConsoleOutput();
+          $flag = true;
+          $counter = 0;
+          while($flag) {
+            if($counter == 5) {
+              $flag = false;
+              $output->writeln("<info>Counter:</info> END");
+            } else {
+              $output->writeln("<info>Counter:</info> $counter");
+              $counter++;
+              sleep(10);
+            }
+          }
+        })->everyMinute();
     }
 
     /**
