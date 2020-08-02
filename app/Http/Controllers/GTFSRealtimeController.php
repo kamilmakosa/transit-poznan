@@ -27,7 +27,7 @@ class GTFSRealtimeController extends Controller
 
   public function tripUpdates() {
     $tripUpdatesOptions = [
-    	'path' => __DIR__,
+    	'path' => public_path()."/gtfs-realtime",
     	'file' => 'trip_updates.pb',
     	'output-file' => 'trip_updates.json',
     ];
